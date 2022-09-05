@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?AlehBarushka&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=AlehBarushka&color=blueviolet">
 </p>
 
 ### Languages and Tools:
