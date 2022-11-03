@@ -17,8 +17,3 @@
 <img align="left" alt="Redux" height="30px" src="https://img.icons8.com/color/480/redux.png" />
 <img align="left" alt="Redux-saga" height="30px" src="https://camo.githubusercontent.com/a3d8f5c8cfdb59b64959df4bc92678817e730034ce54c44935d82603d14eb908/68747470733a2f2f72656475782d736167612e6a732e6f72672f696d672f52656475782d536167612d4c6f676f2d4c616e6473636170652e706e67" />
 <img align="left" alt="Firebase" height="30px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
-
-<br/>
-
-## My Stats:
-<img align="left" width="400px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehBarushka&langs_count=8&layout=compact" />
