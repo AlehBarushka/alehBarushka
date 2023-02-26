@@ -7,9 +7,9 @@
 
 <br/>
 
-### At the moment:
-  I am engaged in mobile cross-platform development on React Native.  
-  I am studying mobile development for android on Kotlin
+### At the moment i'm:
+  - engaged in mobile cross-platform development on React Native.  
+  - studying mobile development for android on Kotlin
 
 ### Languages and Tools:
 
