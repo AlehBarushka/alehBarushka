@@ -8,8 +8,8 @@
 <br/>
 
 ### At the moment i'm:
-  - engaged in mobile cross-platform development on React Native.  
-  - studying mobile development for android on Kotlin
+  - engaged in mobile cross-platform development on React Native;
+  - engaged in mobile development for Android using jetpack Compose.
 
 ### Languages and Tools:
 
